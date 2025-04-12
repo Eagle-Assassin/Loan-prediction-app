@@ -99,7 +99,7 @@ def run():
         st.write(f"Approval Probability: {probabilities[0][1]:.2f}")
         st.write(f"Rejection Probability: {probabilities[0][0]:.2f}")
         # else:
-        #  st.error("The loaded object is not a valid model.")
+        #  st.error("The loaded object is not a valid model.")  
 
 
 
